@@ -1,0 +1,1 @@
+<?xml version='1.0'?><methodResponse><params><param><value><string>API Error 0020: Invalid method: helloWorld1</string></value></param></params></methodResponse>

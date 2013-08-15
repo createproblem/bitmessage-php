@@ -1,0 +1,1 @@
+<?xml version='1.0'?><methodResponse><params><param><value><string>{"addresses":[{    "address": "BM-2DBYZKCHfG82V5hHx93vREHeUoPzVmkykh",    "enabled": true,    "stream": 1,    "label": "Test"},{    "address": "BM-2D7QKHUhFGdxSKwtVSzmwWpBsMmw5j8BNw",    "enabled": true,    "stream": 1,    "label": "Test1"}]}</string></value></param></params></methodResponse>

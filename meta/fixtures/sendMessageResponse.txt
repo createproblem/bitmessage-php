@@ -1,0 +1,1 @@
+<?xml version='1.0'?><methodResponse><params><param><value><string>b3ce1c0308eb0765e0c67eeaf851fc8d0d752359c8f1e499d1fe02e39affbc67</string></value></param></params></methodResponse>
